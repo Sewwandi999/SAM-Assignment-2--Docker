@@ -1,0 +1,14 @@
+{
+  "name": "docker_project",
+  "version": "1.0.0",
+  "description": "Dockerized Assignment 1 Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sagee, Shani, Ahinsa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
